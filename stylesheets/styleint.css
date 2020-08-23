@@ -41,7 +41,9 @@ a{
    padding-top: 90px;
 }
 
-
+.tilbage:hover{
+  opacity: 70%;
+}
 nav{
     text-align: center;
     padding: 20px;
@@ -111,11 +113,14 @@ nav ul li{
 
     .column {
     float: left;
-    width: 32%;
+    width: 32.3%;
     padding: .5%;
   }
   
   .column img {
+    margin-top: 12px;
+  }
+  .column video{
     margin-top: 12px;
   }
   
